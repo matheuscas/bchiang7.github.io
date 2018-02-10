@@ -2,12 +2,12 @@
 name: Matheus Cardoso
 title: Matheus Cardoso | Full stack web and mobile apps developer
 description: A passionate father, a truly researcher and enthusiastic software engineer. I am building web and mobile applications and a life for my son. 
-url: https://brittanychiang.com/
+url: http://matheuscas.github.io/
 baseurl: ""
 email: matheus.mcas@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
+cover: http://matheuscas.github.io/img/og.png
+logo: http://matheuscas.github.io/img/emojis/technologist.png
+resume: http://matheuscas.github.io/resume.pdf
 social:
   - title: email
     url: mailto:matheus.mcas@gmail.com
