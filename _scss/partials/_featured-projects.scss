@@ -25,7 +25,8 @@
       margin-bottom: 0;
     }
     &__pic {
-      max-width: 700px;
+      max-width: 200px;
+      
       overflow: visible;
       margin: 0;
       a {
@@ -50,7 +51,7 @@
       }
     }
     &__caption {
-      width: 125px;
+      width: 50%;
       flex-shrink: 0;
       margin-left: 30px;
       @include tablet {
