@@ -4,25 +4,24 @@ languages:
   - item: HTML
   - item: CSS/Sass
   - item: Python
-  - item: Java
-  - item: SQL
 
 frameworks:
-  - item: Ember / Glimmer
-  - item: Jekyll
-  - item: D3
-  - item: Node
-  - item: Backbone
-  - item: React
+  - item: Angular
+  - item: Ionic
   - item: Cordova
+  - item: Node
+  - item: Django
+  - item: Sanic
+  - item: Expressjs
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
+  - item: Agile (Scrum, Kanban)
+  - item: TDD
+  - item: Docker
+  - item: Git
   - item: MongoDB
+  - item: PostgreSQL
+  - item: MySQL
 
 design:
   - item: Sketch
