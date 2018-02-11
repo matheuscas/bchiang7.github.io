@@ -36,6 +36,7 @@
     }
   }
   &__links {
+    margin-left: auto;
     @include weird-medium {
       display: flex;
       justify-content: center;
