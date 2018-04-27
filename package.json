@@ -1,7 +1,7 @@
 {
   "name": "matheuscas.github.io",
   "version": "1.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "A passionate father, a truly researcher and enthusiastic software engineer.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
