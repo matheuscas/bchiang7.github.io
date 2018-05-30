@@ -1,8 +1,7 @@
 languages:
   - item: JavaScript (ES6)
   - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: HTML/CSS/Sass
   - item: Python
 
 frameworks:
@@ -15,6 +14,7 @@ frameworks:
   - item: Expressjs
 
 tools:
+  - item: Firebase
   - item: Agile (Scrum, Kanban)
   - item: TDD
   - item: Docker
